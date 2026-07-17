@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Arunima 👋</h1>
+<h1 align="center">Hey, I'm Arunima Dayal👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&duration=3000&color=EC4899&center=true&vCenter=true&width=900&lines=Build+with+curiosity.;Learn+with+purpose.;Explore+beyond+the+obvious." alt="Typing SVG" />
